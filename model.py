@@ -1,6 +1,6 @@
 import openai  # for calling the OpenAI API
 
-# openai.api_key = "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"
+# openai.api_key = "OPEN-AI-key"
 
 # models
 
